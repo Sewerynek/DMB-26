@@ -11,7 +11,7 @@ The aim is to create a website that can be used during the scout night game. It 
 
 | No. | Target date  | Title | Description |
 | --- | ----------- | ----------- | ----------- |
-| 1.  |  2025-11  |  First Decisions  | Decide on virtual machine, host, languages to use, database |
-| 2.  |  2025-11  |  Build anything  |  |
+| 1.  |  2025-11  |  Build anything  | Write minimal page in HTML and CSS files |
+| 2.  |  2025-11  |  First Decisions  | Decide on virtual machine, host, languages to use, database   |
 | 3.  |  2025-12  |  Make properly logic  |  |
 | 4.  |  2025-12  |  Improve  |  |
